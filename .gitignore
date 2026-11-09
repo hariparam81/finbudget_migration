@@ -1,0 +1,10 @@
+# working folders
+.scai/
+source/
+snowflake/
+_staging/
+_scai_staging/
+
+# Local logs and notes
+logs/
+ACTIONS_LOG.md
